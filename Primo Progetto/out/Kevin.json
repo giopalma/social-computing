@@ -82,7 +82,7 @@
         "username": "davideceolin",
         "description": "Information Quality, Trust, Argumentation, Tenured Researcher @ CWI Amsterdam.",
         "public_metrics": {
-            "followers_count": 457,
+            "followers_count": 458,
             "following_count": 2058,
             "tweet_count": 490,
             "listed_count": 12
@@ -552,7 +552,7 @@
         "public_metrics": {
             "followers_count": 200,
             "following_count": 158,
-            "tweet_count": 134,
+            "tweet_count": 136,
             "listed_count": 1
         },
         "protected": false,
@@ -630,11 +630,11 @@
         "public_metrics": {
             "followers_count": 373921,
             "following_count": 14402,
-            "tweet_count": 13220,
+            "tweet_count": 13221,
             "listed_count": 1611
         },
         "protected": false,
-        "last_week_tweets_count": 1
+        "last_week_tweets_count": 2
     },
     "391867472": {
         "name": "Johanne",
@@ -850,7 +850,7 @@
         "description": "Springer's Information Retrieval Journal. Editors-in-Chief: Leif Azzopardi/Tetsuya Sakai/Ryen W. White",
         "public_metrics": {
             "followers_count": 621,
-            "following_count": 216,
+            "following_count": 217,
             "tweet_count": 20,
             "listed_count": 11
         },
@@ -1084,7 +1084,7 @@
         "description": "11th European Summer School in Information Retrieval. 4th-8th September, 2017. Barcelona. Organised by @UPFBarcelona @WRG_UPF @DTIC_UPF",
         "public_metrics": {
             "followers_count": 198,
-            "following_count": 862,
+            "following_count": 863,
             "tweet_count": 84,
             "listed_count": 7
         },
