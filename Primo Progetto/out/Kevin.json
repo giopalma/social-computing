@@ -1,16 +1,27 @@
 {
+    "611994181": {
+        "name": "Strazzi",
+        "username": "TheStrazzi",
+        "description": "",
+        "public_metrics": {
+            "followers_count": 1,
+            "following_count": 1,
+            "tweet_count": 1,
+            "listed_count": 0
+        },
+        "protected": false
+    },
     "2582519183": {
         "name": "cla",
         "username": "clacostacc",
         "description": "uni student @ Uniud. sports, music, play guitar, read, eat and tv series/movies. easy",
         "public_metrics": {
             "followers_count": 108,
-            "following_count": 181,
-            "tweet_count": 159,
+            "following_count": 183,
+            "tweet_count": 162,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1558731210570010624": {
         "name": "MatteoPizzinato",
@@ -22,8 +33,7 @@
             "tweet_count": 1,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "998681467696885761": {
         "name": "Oleg Zendel",
@@ -31,12 +41,11 @@
         "description": "IR Ph.D. candidate at @RMIT",
         "public_metrics": {
             "followers_count": 145,
-            "following_count": 572,
-            "tweet_count": 210,
+            "following_count": 573,
+            "tweet_count": 211,
             "listed_count": 4
         },
-        "protected": false,
-        "last_week_tweets_count": 2
+        "protected": false
     },
     "1176475874759270400": {
         "name": "Salar Mohtaj",
@@ -44,38 +53,35 @@
         "description": "Researcher @DFKI, PhD student @TUBerlin\nMachine Learning and #NLP researcher",
         "public_metrics": {
             "followers_count": 62,
-            "following_count": 250,
+            "following_count": 249,
             "tweet_count": 27,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "553507111": {
         "name": "Elisa Cavatorta",
         "username": "_ElisaC_",
         "description": "Associate Professor @KingsCollegeLon @KCLecon\nVice-President @aisuk_info\nConflictResolution|#ImpactEvaluation|#Measurement|#VirtualReality forGood #EconTwitter",
         "public_metrics": {
-            "followers_count": 307,
-            "following_count": 250,
+            "followers_count": 311,
+            "following_count": 253,
             "tweet_count": 34,
             "listed_count": 5
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1275818050848206848": {
         "name": "Dominik Stammbach",
         "username": "dominsta_nlp",
         "description": "PhD student in Natural Language Processing, Zurich",
         "public_metrics": {
-            "followers_count": 68,
-            "following_count": 256,
+            "followers_count": 72,
+            "following_count": 265,
             "tweet_count": 1,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "28607182": {
         "name": "Davide Ceolin",
@@ -87,21 +93,19 @@
             "tweet_count": 490,
             "listed_count": 12
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1546349170315120640": {
         "name": "Joel Mackenzie",
         "username": "joelmmackenzie",
         "description": "Lecturer at the University of Queensland.  Information Retrieval Research. \nhttps://t.co/Aquuj1pPup \n@UQSchoolITEE \n@ielabgroup",
         "public_metrics": {
-            "followers_count": 130,
-            "following_count": 209,
+            "followers_count": 133,
+            "following_count": 211,
             "tweet_count": 43,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 5
+        "protected": false
     },
     "1520733236678299650": {
         "name": "David La Barbera",
@@ -109,12 +113,11 @@
         "description": "PhD Student in Cumputer Science & AI @ UniUD\nFake News, Data Science & a bunch of outdoor passions",
         "public_metrics": {
             "followers_count": 18,
-            "following_count": 56,
+            "following_count": 55,
             "tweet_count": 3,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3383574447": {
         "name": "Francesca Da Ros",
@@ -122,12 +125,11 @@
         "description": "Raised in Veneto and Bezirk Oberpfalz. Now spending my best time in Steiermark and FVG. Thinking und sprechen in tre lingue zusammen 🏳️‍🌈🌻🌛🌞",
         "public_metrics": {
             "followers_count": 137,
-            "following_count": 206,
-            "tweet_count": 1458,
+            "following_count": 205,
+            "tweet_count": 1462,
             "listed_count": 0
         },
-        "protected": true,
-        "last_week_tweets_count": 0
+        "protected": true
     },
     "2989739661": {
         "name": "Oana Inel",
@@ -135,64 +137,59 @@
         "description": "Postdoc at the University of Zurich; Previously at @tudelft, @VUamsterdam; Research interest #humancomputation #reponsibledatascience #explanations #semanticweb",
         "public_metrics": {
             "followers_count": 296,
-            "following_count": 445,
+            "following_count": 446,
             "tweet_count": 249,
             "listed_count": 7
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1511721268558630916": {
         "name": "BHCC",
         "username": "BHCC2022",
         "description": "BHCC 2022",
         "public_metrics": {
-            "followers_count": 15,
-            "following_count": 23,
+            "followers_count": 14,
+            "following_count": 22,
             "tweet_count": 39,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1455458703524700161": {
         "name": "Federico",
         "username": "Il_Bale_",
         "description": "",
         "public_metrics": {
-            "followers_count": 415,
+            "followers_count": 418,
             "following_count": 23,
             "tweet_count": 2,
             "listed_count": 5
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "248721193": {
         "name": "Danula Hettiachchi",
         "username": "danulaera",
         "description": "Research Fellow @AdmsCentre @RMITComputing. Crowdsourcing. Social Computing. PhD @unimelb. Former Software Engineer.\n\nTweets are my own.",
         "public_metrics": {
-            "followers_count": 385,
-            "following_count": 449,
+            "followers_count": 383,
+            "following_count": 448,
             "tweet_count": 302,
             "listed_count": 5
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1708743114": {
         "name": "Harry Scells",
         "username": "hscells",
         "description": "Alexander von Humboldt Research Fellow \n@webis_de/@UniLeipzig\n\n🦣 @hscells@idf.social\n\nInformation Retrieval 🔎\nhttps://t.co/VGjAc3v8bi 🌏\n@ielabgroup alumnus 🌳",
         "public_metrics": {
-            "followers_count": 263,
+            "followers_count": 264,
             "following_count": 332,
             "tweet_count": 247,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1269179580843200512": {
         "name": "A. Rieger",
@@ -204,8 +201,7 @@
             "tweet_count": 12,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "465693357": {
         "name": "Tahir Abbas",
@@ -213,25 +209,23 @@
         "description": "Postdoc researcher @wisdelft @tudelft; working on HCI, Human Computation, Conversational User Interfaces, and AI; father of two lovely kids",
         "public_metrics": {
             "followers_count": 160,
-            "following_count": 603,
+            "following_count": 602,
             "tweet_count": 302,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "75525450": {
         "name": "Nirmal Roy",
         "username": "_nirmalroy",
         "description": "🇮🇳 🇳🇱 🇺🇸 PhD @wisdelft. Trying to understand how people search on the web. Football/fitness/hiking extremist. Love nerd jokes. @amazonscience @pwc",
         "public_metrics": {
-            "followers_count": 455,
-            "following_count": 709,
+            "followers_count": 457,
+            "following_count": 710,
             "tweet_count": 309,
             "listed_count": 3
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1222505104080809985": {
         "name": "Tim Draws",
@@ -243,34 +237,31 @@
             "tweet_count": 169,
             "listed_count": 4
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "833597084167122945": {
         "name": "Sihang Qiu",
         "username": "qiusihang",
         "description": "Crowdsourcing | Human Computation | Conversational Agent",
         "public_metrics": {
-            "followers_count": 140,
-            "following_count": 175,
+            "followers_count": 139,
+            "following_count": 174,
             "tweet_count": 115,
             "listed_count": 1
         },
-        "protected": true,
-        "last_week_tweets_count": 0
+        "protected": true
     },
     "40576466": {
         "name": "Tetsuya Sakai (酒井哲也)",
         "username": "tetsuyasakai",
         "description": "Researcher/Professor@Waseda University. Self-proclaimed singer/songwriter. 研究者。早稲田情報理工教授。自称シンガー／ソングライター: https://t.co/VR1nBF6C9v\n\n@tetsuyasakai@idf.social",
         "public_metrics": {
-            "followers_count": 2381,
-            "following_count": 944,
-            "tweet_count": 32698,
+            "followers_count": 2385,
+            "following_count": 945,
+            "tweet_count": 32740,
             "listed_count": 88
         },
-        "protected": false,
-        "last_week_tweets_count": 32
+        "protected": false
     },
     "2166763549": {
         "name": "Mengdie Zhuang",
@@ -278,12 +269,11 @@
         "description": "Interacting with Information. Mad about visualisations. \nResearch @InfoSchoolSheff. Honorary/Ex @CASAUCL",
         "public_metrics": {
             "followers_count": 203,
-            "following_count": 309,
+            "following_count": 310,
             "tweet_count": 47,
             "listed_count": 2
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "429259920": {
         "name": "Ahmed Mourad",
@@ -291,12 +281,11 @@
         "description": "Computer Science | searchin 4 my RI | triathlete in the making",
         "public_metrics": {
             "followers_count": 183,
-            "following_count": 296,
-            "tweet_count": 499,
+            "following_count": 297,
+            "tweet_count": 516,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 5
+        "protected": false
     },
     "1391967150500466688": {
         "name": "Ahmed djebari",
@@ -304,12 +293,11 @@
         "description": "Dopo l'amore della madre non c'è amore",
         "public_metrics": {
             "followers_count": 0,
-            "following_count": 118,
+            "following_count": 117,
             "tweet_count": 4,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1387788296215015428": {
         "name": "IIR 2021",
@@ -321,60 +309,55 @@
             "tweet_count": 32,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "29866761": {
         "name": "James McInerney",
         "username": "mcinerneyj",
         "description": "ML research scientist @NetflixResearch. Previously Spotify / Columbia.",
         "public_metrics": {
-            "followers_count": 1122,
-            "following_count": 796,
+            "followers_count": 1121,
+            "following_count": 795,
             "tweet_count": 695,
             "listed_count": 46
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1190461842922995712": {
         "name": "CIKM 2021",
         "username": "CIKM2021",
         "description": "ACM CIKM 2021 Conference\n1-5 Nov 2021, Online",
         "public_metrics": {
-            "followers_count": 837,
-            "following_count": 3088,
+            "followers_count": 836,
+            "following_count": 3086,
             "tweet_count": 124,
             "listed_count": 10
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "22597445": {
         "name": "Gianmaria Silvello",
         "username": "giansilv",
         "description": "Information Retrieval, Data Citation and Provenance, Digital Libraries and Archives researcher @ University of Padua, Italy",
         "public_metrics": {
-            "followers_count": 575,
-            "following_count": 780,
-            "tweet_count": 3847,
+            "followers_count": 574,
+            "following_count": 781,
+            "tweet_count": 3850,
             "listed_count": 22
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "1330708819761004545": {
         "name": "Sachin PC",
         "username": "SachinPC10",
         "description": "PhD Student @RMITComputing.\nData Scientist @Five9",
         "public_metrics": {
-            "followers_count": 62,
+            "followers_count": 63,
             "following_count": 197,
             "tweet_count": 21,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "554687023": {
         "name": "Paul Oreto",
@@ -382,90 +365,71 @@
         "description": "",
         "public_metrics": {
             "followers_count": 119,
-            "following_count": 4999,
+            "following_count": 4998,
             "tweet_count": 155,
             "listed_count": 5
         },
-        "protected": true,
-        "last_week_tweets_count": 0
+        "protected": true
     },
     "1284115731295207427": {
         "name": "Adienge",
         "username": "Adienge3",
         "description": "Web | Application Developer\nLearner @ Computer Programming Languages & DS\nTech enthusiast",
         "public_metrics": {
-            "followers_count": 497,
-            "following_count": 4963,
-            "tweet_count": 2281,
+            "followers_count": 502,
+            "following_count": 4962,
+            "tweet_count": 2295,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "729262286704128000": {
         "name": "Alessio Rubicini",
         "username": "alerubicini",
         "description": "🇮🇹 20 yo • iOS developer • Amateur filmmaker • Cinema, space and videogames enthusiast  • Member of @GhostbustersIT",
         "public_metrics": {
-            "followers_count": 265,
-            "following_count": 654,
+            "followers_count": 264,
+            "following_count": 652,
             "tweet_count": 3781,
             "listed_count": 10
         },
-        "protected": false,
-        "last_week_tweets_count": 0
-    },
-    "338989477": {
-        "name": "Eddy Maddalena",
-        "username": "EddyMaddalena",
-        "description": "",
-        "public_metrics": {
-            "followers_count": 89,
-            "following_count": 141,
-            "tweet_count": 223,
-            "listed_count": 0
-        },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1187585868493537280": {
         "name": "Centre for Information Discovery & Data Analytics",
         "username": "rmit_cidda",
         "description": "@RMIT @ResearchRMIT Centre for Information Discovery and Data Analytics (CIDDA)",
         "public_metrics": {
-            "followers_count": 260,
-            "following_count": 188,
-            "tweet_count": 372,
+            "followers_count": 263,
+            "following_count": 190,
+            "tweet_count": 373,
             "listed_count": 6
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "39697728": {
         "name": "Flora Salim",
         "username": "flosalim",
         "description": "Prof & @Cisco Chair @UNSWComputing | CI @AdmsCentre | Deputy Director @unsw_ai | @MonashUni👩🏻‍🎓 | #AI #ML #UbiComp #IoT #spatial | @flosalim@sigmoid.social",
         "public_metrics": {
-            "followers_count": 1495,
-            "following_count": 1516,
-            "tweet_count": 3066,
-            "listed_count": 61
+            "followers_count": 1505,
+            "following_count": 1525,
+            "tweet_count": 3078,
+            "listed_count": 60
         },
-        "protected": false,
-        "last_week_tweets_count": 6
+        "protected": false
     },
     "1265795638551212032": {
         "name": "Rodger Benham",
         "username": "rodger_benham",
         "description": "Software Engineer at Vivi in the final stages of a Computer Science PhD at @RMIT.",
         "public_metrics": {
-            "followers_count": 141,
+            "followers_count": 140,
             "following_count": 288,
             "tweet_count": 85,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "184125091": {
         "name": "Stella",
@@ -473,12 +437,11 @@
         "description": "👩🏻‍💻🎧🍕 AI & Music Information Retrieval @musixmatch, @musixmatchai 💿 I like producing lofi IDM while eating pizza. she/her",
         "public_metrics": {
             "followers_count": 782,
-            "following_count": 2440,
+            "following_count": 2434,
             "tweet_count": 5297,
             "listed_count": 11
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "343587148": {
         "name": "Tao Wang",
@@ -486,38 +449,35 @@
         "description": "Econ PhD @JohnsHopkins Behavioral /HA macro. IMF/Brookings/Cornell.\nLanguage addict: human's/coding/econ/food. https://t.co/cQFJ6KWB1O,  \nhttps://t.co/NPBEXLWpaU",
         "public_metrics": {
             "followers_count": 1075,
-            "following_count": 4984,
-            "tweet_count": 1665,
+            "following_count": 4980,
+            "tweet_count": 1669,
             "listed_count": 11
         },
-        "protected": false,
-        "last_week_tweets_count": 27
+        "protected": false
     },
     "2444133930": {
         "name": "Manish Bansal",
         "username": "manishb89",
         "description": "Applying Machine learning @Amazon Search (Ex-Flipkart). Interested in machine learning, NLP/IR.",
         "public_metrics": {
-            "followers_count": 37,
+            "followers_count": 38,
             "following_count": 634,
             "tweet_count": 92,
             "listed_count": 2
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "839139788846411777": {
         "name": "Arshia Arya",
         "username": "AryaArshia",
         "description": "SCAI Center Fellow @MSFTResearch. Ex: Intern @MSFTResearch.Working in HCI + Social Computing. Econ+CS from @BITSPilaniGoa. Looking for PhD positions Fall’23!",
         "public_metrics": {
-            "followers_count": 1176,
-            "following_count": 4995,
-            "tweet_count": 147,
+            "followers_count": 1181,
+            "following_count": 4992,
+            "tweet_count": 148,
             "listed_count": 6
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2417892751": {
         "name": "Martin Arvidsson 🇺🇦",
@@ -525,64 +485,59 @@
         "description": "PhD in Analytical Sociology @IAS_LiU. Micro-macro puzzles and the intersection of computational social science and analytical sociology.",
         "public_metrics": {
             "followers_count": 1029,
-            "following_count": 4049,
+            "following_count": 4043,
             "tweet_count": 473,
             "listed_count": 6
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1111315973125169152": {
         "name": "CIKM2020",
         "username": "cikm2020",
         "description": "29th Conference in Information and Knowledge Management \n19-23 October 2020 #online #cikm2020",
         "public_metrics": {
-            "followers_count": 887,
+            "followers_count": 886,
             "following_count": 266,
             "tweet_count": 201,
-            "listed_count": 24
+            "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1195044761322823680": {
         "name": "Giulia Lombardo",
         "username": "Lombardo_GG",
         "description": "PhD Student - IoPPN @KingsIoPPN - King's College London - Immunopsychiatry.\n@SPILabKCL @PIXIELabKCL",
         "public_metrics": {
-            "followers_count": 200,
-            "following_count": 158,
+            "followers_count": 201,
+            "following_count": 157,
             "tweet_count": 136,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 2
+        "protected": false
     },
     "116897811": {
         "name": "Robert Monarch",
         "username": "WWRob",
         "description": "Private/Global Machine Learning at @Apple \nRuns @BayAreaNLP \nWrote https://t.co/4rHlBPzGt2… \nPrev @StanfordNLP @AWSCloud \nOpinions my own \n🚲🌍 they/he",
         "public_metrics": {
-            "followers_count": 4707,
-            "following_count": 3051,
-            "tweet_count": 3708,
+            "followers_count": 4697,
+            "following_count": 3047,
+            "tweet_count": 3706,
             "listed_count": 241
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "1156797119149121541": {
         "name": "Human-in-the-Loop",
         "username": "huml_",
         "description": "A Human-in-the-Loop and sometimes Luminous-in-a-Hoop.\n\nComments on articles about Machine Learning, especially Human-Centered AI",
         "public_metrics": {
-            "followers_count": 83,
-            "following_count": 420,
-            "tweet_count": 2519,
+            "followers_count": 85,
+            "following_count": 419,
+            "tweet_count": 2535,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 24
+        "protected": false
     },
     "911963260005552128": {
         "name": "divi putri",
@@ -594,8 +549,7 @@
             "tweet_count": 4,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "20356196": {
         "name": "Jay Zhang",
@@ -603,38 +557,35 @@
         "description": "Digital Distribution\nhttps://t.co/9UNjdjSKz2",
         "public_metrics": {
             "followers_count": 177,
-            "following_count": 639,
+            "following_count": 640,
             "tweet_count": 512,
             "listed_count": 9
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "48677032": {
         "name": "Vincenzo Della Mea",
         "username": "vidiemme",
         "description": "Associate professor of Medical Informatics at the University of Udine, Italy (@uniud) . Member of the Executive Board of @ESDIPatho.",
         "public_metrics": {
-            "followers_count": 184,
-            "following_count": 95,
+            "followers_count": 181,
+            "following_count": 93,
             "tweet_count": 1689,
             "listed_count": 13
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "157920406": {
         "name": "Pascal Guyon",
         "username": "pascalguyon",
         "description": "🎖Multi-Platinum Music Producer, 3 Grammy Nominations contributor 🖥 Software Developer 👨‍💻 Currently working with @hyperlooptt @InputOutputHK",
         "public_metrics": {
-            "followers_count": 373837,
-            "following_count": 14403,
-            "tweet_count": 13221,
+            "followers_count": 373321,
+            "following_count": 14395,
+            "tweet_count": 13224,
             "listed_count": 1611
         },
-        "protected": false,
-        "last_week_tweets_count": 2
+        "protected": false
     },
     "391867472": {
         "name": "Johanne",
@@ -642,116 +593,107 @@
         "description": "@RMIT Vice-Chancellor's Research Fellow. Prior, Doreen Thomas Research Fellow @unimelb. Interested in making the web accessible.\nEven the snail reached the ark.",
         "public_metrics": {
             "followers_count": 668,
-            "following_count": 452,
+            "following_count": 451,
             "tweet_count": 865,
             "listed_count": 22
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "514667085": {
         "name": "Antonio Mallia",
         "username": "antonio_mallia",
         "description": "PhD fellow @ NYU Tandon. Passionate about algorithms, data structures, distributed systems and software design. Opinions are my own.",
         "public_metrics": {
-            "followers_count": 983,
-            "following_count": 2208,
-            "tweet_count": 51314,
+            "followers_count": 980,
+            "following_count": 2207,
+            "tweet_count": 51315,
             "listed_count": 47
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1264438328": {
         "name": "Heidelberg Laureate Forum",
         "username": "HLForum",
         "description": "Connecting laureates of mathematics and computer science with the next generation.\n\nImprint: https://t.co/gnmByHm4IU",
         "public_metrics": {
-            "followers_count": 5498,
+            "followers_count": 5504,
             "following_count": 421,
-            "tweet_count": 5948,
+            "tweet_count": 5955,
             "listed_count": 93
         },
-        "protected": false,
-        "last_week_tweets_count": 7
+        "protected": false
     },
     "18874262": {
         "name": "Praveen Chandar",
         "username": "pchandarr",
         "description": "Researcher at Spotify  -\ninterested in  user modeling, IR, NLP & ML",
         "public_metrics": {
-            "followers_count": 790,
-            "following_count": 770,
+            "followers_count": 788,
+            "following_count": 768,
             "tweet_count": 801,
             "listed_count": 40
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "393675585": {
         "name": "Julio Gonzalo",
         "username": "JulioGonzalo1",
         "description": "Researcher in Natural Language Processing & Information Retrieval. PI of https://t.co/hFiALiL0KD. Deputy Vicerrector for Research, UNED.",
         "public_metrics": {
-            "followers_count": 1427,
+            "followers_count": 1424,
             "following_count": 1079,
-            "tweet_count": 2203,
+            "tweet_count": 2205,
             "listed_count": 61
         },
-        "protected": false,
-        "last_week_tweets_count": 3
+        "protected": false
     },
     "249661913": {
         "name": "Julián Urbano",
         "username": "julian_urbano",
         "description": "Assistant Professor @tudelf. Information Retrieval (Evaluation).\nOpinions are my own and not the views of my employer.",
         "public_metrics": {
-            "followers_count": 1039,
+            "followers_count": 1038,
             "following_count": 425,
             "tweet_count": 3766,
             "listed_count": 44
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "2382305514": {
         "name": "Human Computation",
         "username": "HCjnl",
         "description": "Human Computation - international & transdisciplinary journal for high-quality scholarly articles in all areas of #humancomputation #openaccess #citizenscience",
         "public_metrics": {
-            "followers_count": 521,
-            "following_count": 993,
+            "followers_count": 522,
+            "following_count": 995,
             "tweet_count": 293,
             "listed_count": 23
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "350164545": {
         "name": "iamamrapali",
         "username": "amrapaliz",
         "description": "Postdoc @UM_IDS @MaastrichtU, previous postdoc @Stanford, PhD @akswgroup, Research interests: #dataquality #knowledgegraphs #crowdsourcing #machinelearning",
         "public_metrics": {
-            "followers_count": 2580,
-            "following_count": 4801,
+            "followers_count": 2577,
+            "following_count": 4799,
             "tweet_count": 4072,
-            "listed_count": 0
+            "listed_count": 112
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "130671142": {
         "name": "Ben Carterette",
         "username": "BenCarterette",
         "description": "University of Delaware / Spotify. Researcher / teacher. Scientist / engineer. IR / search. he / him. Wilmington / New York. 🚆",
         "public_metrics": {
-            "followers_count": 1958,
-            "following_count": 642,
+            "followers_count": 1956,
+            "following_count": 641,
             "tweet_count": 607,
             "listed_count": 48
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "270044784": {
         "name": "Sri²",
@@ -763,34 +705,31 @@
             "tweet_count": 595,
             "listed_count": 22
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "954235769618538496": {
         "name": "HIIJ Journal",
         "username": "hiijjournal1",
         "description": "Health Informatics: An International Journal(HIIJ)\nSubmission URL: https://t.co/pBOa63JdqI…",
         "public_metrics": {
-            "followers_count": 124,
+            "followers_count": 125,
             "following_count": 792,
-            "tweet_count": 698,
+            "tweet_count": 701,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 5
+        "protected": false
     },
     "16868154": {
         "name": "@arjen@idf.social 🕊️🇺🇦",
         "username": "arjenpdevries",
         "description": "Computer scientist and entrepeneur specialized in information access to dataspaces through the integration of information retrieval and databases.",
         "public_metrics": {
-            "followers_count": 2411,
+            "followers_count": 2409,
             "following_count": 1960,
-            "tweet_count": 12516,
+            "tweet_count": 12515,
             "listed_count": 117
         },
-        "protected": false,
-        "last_week_tweets_count": 5
+        "protected": false
     },
     "59217922": {
         "name": "Ujwal Gadiraju",
@@ -798,12 +737,11 @@
         "description": "Assistant Professor @wisdelft @tudelft. ACM Distinguished Speaker.\nHCI | Crowd Computing | Human-centered AI |  Information Retrieval | #TAFF",
         "public_metrics": {
             "followers_count": 1130,
-            "following_count": 839,
-            "tweet_count": 1544,
+            "following_count": 842,
+            "tweet_count": 1550,
             "listed_count": 29
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "934851466082357249": {
         "name": "Darío Garigliotti",
@@ -811,12 +749,11 @@
         "description": "Cómico austrohúngaro exiliado.\nAl otro, a Garigliotti, es a quien le ocurren las cosas.",
         "public_metrics": {
             "followers_count": 234,
-            "following_count": 1616,
+            "following_count": 1614,
             "tweet_count": 99,
             "listed_count": 5
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "94732055": {
         "name": "Luke Gallagher",
@@ -824,12 +761,11 @@
         "description": "",
         "public_metrics": {
             "followers_count": 80,
-            "following_count": 353,
+            "following_count": 352,
             "tweet_count": 7,
             "listed_count": 2
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "707112185076391936": {
         "name": "Lin Ting",
@@ -837,25 +773,23 @@
         "description": "Interested in NLP, IR, RecSys, and ML E2E model implementation.",
         "public_metrics": {
             "followers_count": 38,
-            "following_count": 825,
+            "following_count": 826,
             "tweet_count": 5,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "947311503216066560": {
         "name": "Information Retrieval Journal",
         "username": "SpringerIRJ",
         "description": "Springer's Information Retrieval Journal. Editors-in-Chief: Leif Azzopardi/Tetsuya Sakai/Ryen W. White",
         "public_metrics": {
-            "followers_count": 621,
+            "followers_count": 622,
             "following_count": 217,
             "tweet_count": 20,
-            "listed_count": 11
+            "listed_count": 12
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "458399248": {
         "name": "Alessandro Checco",
@@ -863,25 +797,23 @@
         "description": "",
         "public_metrics": {
             "followers_count": 72,
-            "following_count": 230,
-            "tweet_count": 117,
+            "following_count": 229,
+            "tweet_count": 118,
             "listed_count": 3
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "78969930": {
         "name": "Mounia Lalmas",
         "username": "mounialalmas",
         "description": "Research @ Spotify",
         "public_metrics": {
-            "followers_count": 6148,
-            "following_count": 2727,
-            "tweet_count": 10993,
-            "listed_count": 211
+            "followers_count": 6219,
+            "following_count": 2753,
+            "tweet_count": 10996,
+            "listed_count": 212
         },
-        "protected": false,
-        "last_week_tweets_count": 5
+        "protected": false
     },
     "4053818032": {
         "name": "David Brazier",
@@ -893,73 +825,67 @@
             "tweet_count": 792,
             "listed_count": 12
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "406303880": {
         "name": "Md Zia Ullah",
         "username": "zuacsea",
         "description": "Lecturer/Asst. Professor at Edinburgh Napier University",
         "public_metrics": {
-            "followers_count": 315,
-            "following_count": 884,
+            "followers_count": 312,
+            "following_count": 886,
             "tweet_count": 1887,
-            "listed_count": 73
+            "listed_count": 74
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "132646210": {
         "name": "Damiano Spina ➡️ @damiano10@idf.social",
         "username": "damiano10",
         "description": "PhD in Computer Science. Senior Lecturer & DECRA at @RMITComputing, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira @ACDP_Australia. Percussionist at @Wombatuque.",
         "public_metrics": {
-            "followers_count": 1116,
-            "following_count": 912,
-            "tweet_count": 3235,
+            "followers_count": 1115,
+            "following_count": 913,
+            "tweet_count": 3236,
             "listed_count": 55
         },
-        "protected": false,
-        "last_week_tweets_count": 2
+        "protected": false
     },
     "14451127": {
         "name": "J. Shane Culpepper",
         "username": "sculpepper",
         "description": "Computer Science Research",
         "public_metrics": {
-            "followers_count": 408,
+            "followers_count": 407,
             "following_count": 290,
             "tweet_count": 489,
             "listed_count": 6
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3102522680": {
         "name": "Shashank Gupta",
         "username": "shashank27392",
         "description": "Ph.D. student at @irlab_amsterdam @UvA_Amsterdam | Previously @Flipkart @iiit_hyderabad | Interested in ML & IR. The views expressed are my own.",
         "public_metrics": {
-            "followers_count": 956,
-            "following_count": 3308,
-            "tweet_count": 4142,
+            "followers_count": 958,
+            "following_count": 3306,
+            "tweet_count": 4141,
             "listed_count": 53
         },
-        "protected": false,
-        "last_week_tweets_count": 1
+        "protected": false
     },
     "3033312071": {
         "name": "FREELANCE ESSAYS HELP / ASSIGNMENT HELP /HOMEWORK",
         "username": "ESSAYWRITERD",
         "description": "ACADEMIC EDITING,TECHNICAL WRITING,WEB & APP DEVELOPMENT GHOSTWRITING,GRAPHIC DESIGN,BLOGGING,RESEARCH PROJECTS,PROOFREADING,HTML\nJAVA, JAVASCRIPT J QUERY LINUX",
         "public_metrics": {
-            "followers_count": 901,
-            "following_count": 1433,
-            "tweet_count": 5971,
-            "listed_count": 3
+            "followers_count": 903,
+            "following_count": 1432,
+            "tweet_count": 5980,
+            "listed_count": 4
         },
-        "protected": false,
-        "last_week_tweets_count": 34
+        "protected": false
     },
     "854719703545253888": {
         "name": "Médard ATTOUKOU",
@@ -971,8 +897,7 @@
             "tweet_count": 31,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "894723591446687745": {
         "name": "António Correia",
@@ -980,25 +905,23 @@
         "description": "Research Fellow @MSFTResearch, Visiting Scholar @UNOmaha, Research Assistant @INESCTEC, PhD Candidate in Computer Science at UTAD (funded by FCT), Musician",
         "public_metrics": {
             "followers_count": 566,
-            "following_count": 3813,
+            "following_count": 3807,
             "tweet_count": 5,
             "listed_count": 3
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2309104237": {
         "name": "Amrah Umudlu",
         "username": "amrahoff",
         "description": "",
         "public_metrics": {
-            "followers_count": 130,
-            "following_count": 4868,
+            "followers_count": 129,
+            "following_count": 4869,
             "tweet_count": 897,
             "listed_count": 2
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "15455450": {
         "name": "raffaele_perego",
@@ -1007,11 +930,10 @@
         "public_metrics": {
             "followers_count": 414,
             "following_count": 745,
-            "tweet_count": 313,
+            "tweet_count": 312,
             "listed_count": 10
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1477918760": {
         "name": "Ali Bahrainian",
@@ -1019,38 +941,35 @@
         "description": "",
         "public_metrics": {
             "followers_count": 137,
-            "following_count": 349,
+            "following_count": 348,
             "tweet_count": 73,
             "listed_count": 2
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "125483940": {
         "name": "Franco Maria Nardini",
         "username": "fmnardini",
         "description": "Senior Researcher @ ISTI-CNR (@IstiCnr), Pisa, Italy. Information Retrieval, Machine/Deep Learning, Data/Web Mining, Big Data, Parallel/Distributed Processing.",
         "public_metrics": {
-            "followers_count": 550,
-            "following_count": 1229,
-            "tweet_count": 375,
+            "followers_count": 551,
+            "following_count": 1230,
+            "tweet_count": 376,
             "listed_count": 11
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1527607790": {
         "name": "Ida Mele",
         "username": "ida_mele",
         "description": "Researcher @ IASI-CNR, Rome, Italy",
         "public_metrics": {
-            "followers_count": 201,
+            "followers_count": 200,
             "following_count": 168,
             "tweet_count": 417,
             "listed_count": 8
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "436609034": {
         "name": "Salvatore Trani",
@@ -1062,21 +981,19 @@
             "tweet_count": 125,
             "listed_count": 3
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "308456550": {
         "name": "cristina muntean",
         "username": "CriMuntean",
         "description": "",
         "public_metrics": {
-            "followers_count": 201,
+            "followers_count": 200,
             "following_count": 566,
             "tweet_count": 256,
             "listed_count": 9
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "810893744593584128": {
         "name": "essir2017",
@@ -1084,38 +1001,35 @@
         "description": "11th European Summer School in Information Retrieval. 4th-8th September, 2017. Barcelona. Organised by @UPFBarcelona @WRG_UPF @DTIC_UPF",
         "public_metrics": {
             "followers_count": 198,
-            "following_count": 863,
+            "following_count": 862,
             "tweet_count": 84,
             "listed_count": 7
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "822183485523841025": {
         "name": "Birsu Kandemirci",
         "username": "b_kandemirci",
         "description": "Lecturer @PsychManchester Interested in young children's creative abilities,ToM understanding, and language skills",
         "public_metrics": {
-            "followers_count": 405,
-            "following_count": 812,
+            "followers_count": 403,
+            "following_count": 813,
             "tweet_count": 501,
             "listed_count": 12
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "18932422": {
         "name": "mizzaro",
         "username": "mizzaro",
         "description": "",
         "public_metrics": {
-            "followers_count": 176,
-            "following_count": 381,
+            "followers_count": 175,
+            "following_count": 380,
             "tweet_count": 175,
             "listed_count": 8
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1483247714": {
         "name": "Luca Stefanuto",
@@ -1123,25 +1037,23 @@
         "description": "",
         "public_metrics": {
             "followers_count": 9,
-            "following_count": 36,
+            "following_count": 35,
             "tweet_count": 0,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "341000847": {
         "name": "Mohammad Aliannejadi",
         "username": "maliannejadi",
         "description": "Assistant Professor at UvA @UvA_IvI. \nInformation Retrieval, Conversation Search, Crowdsourcing.",
         "public_metrics": {
-            "followers_count": 1477,
-            "following_count": 1579,
-            "tweet_count": 2538,
-            "listed_count": 23
+            "followers_count": 1480,
+            "following_count": 1580,
+            "tweet_count": 2540,
+            "listed_count": 24
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "735809541456027648": {
         "name": "NTCIR We Want Web",
@@ -1153,8 +1065,7 @@
             "tweet_count": 49,
             "listed_count": 3
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "824668943285702661": {
         "name": "CSS Summer School",
@@ -1164,10 +1075,9 @@
             "followers_count": 524,
             "following_count": 374,
             "tweet_count": 98,
-            "listed_count": 7
+            "listed_count": 6
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "824812182114164736": {
         "name": "www2017perth",
@@ -1179,34 +1089,31 @@
             "tweet_count": 279,
             "listed_count": 13
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2190533245": {
         "name": "ACM SIGIR",
         "username": "ACMSIGIR",
         "description": "",
         "public_metrics": {
-            "followers_count": 1800,
-            "following_count": 815,
+            "followers_count": 1802,
+            "following_count": 816,
             "tweet_count": 93,
             "listed_count": 44
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2601589496": {
         "name": "ACM SIGIR 2017",
         "username": "SIGIR17",
         "description": "General chairs: Noriko Kando, Tetsuya Sakai, Hideo Joho",
         "public_metrics": {
-            "followers_count": 924,
-            "following_count": 788,
+            "followers_count": 925,
+            "following_count": 791,
             "tweet_count": 181,
             "listed_count": 26
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "788839271239184385": {
         "name": "Gloria",
@@ -1218,21 +1125,19 @@
             "tweet_count": 0,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "15750573": {
         "name": "Michael Soprano",
         "username": "Miccighel_",
         "description": "University Life, Computer Science, Photography, Reading, Gaming, Comics. PhD Student @ University of Udine.",
         "public_metrics": {
-            "followers_count": 336,
-            "following_count": 220,
-            "tweet_count": 11388,
+            "followers_count": 335,
+            "following_count": 219,
+            "tweet_count": 11393,
             "listed_count": 19
         },
-        "protected": false,
-        "last_week_tweets_count": 3
+        "protected": false
     },
     "271485168": {
         "name": "Andrea Carraro",
@@ -1244,21 +1149,19 @@
             "tweet_count": 607,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "696907754275930112": {
         "name": "Science Porn",
         "username": "ScienceofStuff",
         "description": "all things science. videos, jokes, memes etc. | *We don't own content posted.*",
         "public_metrics": {
-            "followers_count": 10822,
-            "following_count": 2060,
+            "followers_count": 10809,
+            "following_count": 2062,
             "tweet_count": 122,
             "listed_count": 23
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "4663308149": {
         "name": "Shareaplace",
@@ -1270,21 +1173,19 @@
             "tweet_count": 171,
             "listed_count": 3
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1978351027": {
         "name": "Lodgeo",
         "username": "lodgeoapp",
         "description": "We compare hotel prices across 100’s of travel sites. So you can book your ideal hotel instantly. Download the app http://t.co/CtqwQfeoue",
         "public_metrics": {
-            "followers_count": 1622,
+            "followers_count": 1619,
             "following_count": 2071,
             "tweet_count": 2709,
             "listed_count": 65
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "701026341500690432": {
         "name": "I Sampson",
@@ -1292,12 +1193,11 @@
         "description": "When life gives you lemons, throw them back and take these supplements instead! GET RIPPED AND SQUEEZE THOSE LEMONS. Click below to try them free.",
         "public_metrics": {
             "followers_count": 32,
-            "following_count": 875,
+            "following_count": 874,
             "tweet_count": 30,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "829903626": {
         "name": "Giorgio Simonetti",
@@ -1309,8 +1209,7 @@
             "tweet_count": 1587,
             "listed_count": 9
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "4645255754": {
         "name": "Emma Ryder",
@@ -1318,12 +1217,11 @@
         "description": "Im from Delaware. Work in human resources. NYU grad 08. Love the arts. Love dance, sports , music, movies , horses and delicious food. Luv & Peace to everyone.",
         "public_metrics": {
             "followers_count": 843,
-            "following_count": 3938,
+            "following_count": 3931,
             "tweet_count": 243,
             "listed_count": 16
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1479360883": {
         "name": "Sara",
@@ -1335,34 +1233,31 @@
             "tweet_count": 4,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "118412527": {
         "name": "TWlTTER ITALIA",
         "username": "tweet_italia",
         "description": "Tutte le ultime novità su twitter ed i migliori trucchi per sfruttarlo al massimo. Siamo anche su mastodon: https://t.co/oCfPO5U0dq  fan account",
         "public_metrics": {
-            "followers_count": 17901,
-            "following_count": 19687,
+            "followers_count": 17896,
+            "following_count": 19683,
             "tweet_count": 178,
             "listed_count": 79
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2798157850": {
         "name": "sheepontheroad",
         "username": "sheepthetrip",
         "description": "",
         "public_metrics": {
-            "followers_count": 2030,
+            "followers_count": 2031,
             "following_count": 882,
             "tweet_count": 542,
             "listed_count": 1
         },
-        "protected": true,
-        "last_week_tweets_count": 0
+        "protected": true
     },
     "3270447613": {
         "name": "John Doe",
@@ -1370,25 +1265,23 @@
         "description": "",
         "public_metrics": {
             "followers_count": 452,
-            "following_count": 5012,
+            "following_count": 5004,
             "tweet_count": 2,
             "listed_count": 4
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "408717162": {
         "name": "Courteney Cox",
         "username": "_Courteney_Cox_",
         "description": "A Courteney Cox fan site (Twitter account).",
         "public_metrics": {
-            "followers_count": 1316,
-            "following_count": 1625,
+            "followers_count": 1314,
+            "following_count": 1623,
             "tweet_count": 9,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3293206151": {
         "name": "ADSLab",
@@ -1400,8 +1293,7 @@
             "tweet_count": 1259,
             "listed_count": 51
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3201975988": {
         "name": "Realtor NO more",
@@ -1413,21 +1305,19 @@
             "tweet_count": 18,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3240349167": {
         "name": "Travel to",
         "username": "travelto_to",
         "description": "",
         "public_metrics": {
-            "followers_count": 522,
-            "following_count": 1619,
+            "followers_count": 521,
+            "following_count": 1616,
             "tweet_count": 583,
             "listed_count": 2
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3038714572": {
         "name": "Srijarmi Alawiyah",
@@ -1439,8 +1329,7 @@
             "tweet_count": 23,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3081160595": {
         "name": "Kelsey Cannon",
@@ -1452,8 +1341,7 @@
             "tweet_count": 74,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2969887354": {
         "name": "The Realistic world",
@@ -1461,25 +1349,23 @@
         "description": "This is one of those pages where one learns the brutal truth about reality.                                         We live to die another day",
         "public_metrics": {
             "followers_count": 554,
-            "following_count": 1110,
+            "following_count": 1109,
             "tweet_count": 881,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2877269332": {
         "name": "Hope for Humanity",
         "username": "Hope_4_humanity",
         "description": "Everything is not terrible.",
         "public_metrics": {
-            "followers_count": 16243,
-            "following_count": 13281,
+            "followers_count": 16226,
+            "following_count": 13276,
             "tweet_count": 422,
             "listed_count": 32
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2208838112": {
         "name": "Luca Pighin",
@@ -1487,12 +1373,11 @@
         "description": "",
         "public_metrics": {
             "followers_count": 24,
-            "following_count": 71,
+            "following_count": 70,
             "tweet_count": 97,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3077138539": {
         "name": "What ICallFashion",
@@ -1504,21 +1389,19 @@
             "tweet_count": 54,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3083042302": {
         "name": "Only Girls Know",
         "username": "girlsonlyknow1",
         "description": "Things only girls will understand.                             If you need advice or help messege me.",
         "public_metrics": {
-            "followers_count": 276,
-            "following_count": 1499,
+            "followers_count": 274,
+            "following_count": 1498,
             "tweet_count": 18,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "263265080": {
         "name": "SM",
@@ -1526,12 +1409,11 @@
         "description": "Penso troppo. Dormo troppo poco. Faccio parole crociate in attesa del principe azzurro. ♍ https://t.co/7cibyDruf9 ✌",
         "public_metrics": {
             "followers_count": 329,
-            "following_count": 1021,
+            "following_count": 1018,
             "tweet_count": 2262,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3036851230": {
         "name": "La Pausa Info",
@@ -1539,12 +1421,11 @@
         "description": "Il tuo quotidiano delle ultime notizie.",
         "public_metrics": {
             "followers_count": 178,
-            "following_count": 1126,
+            "following_count": 1125,
             "tweet_count": 1083,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3015605477": {
         "name": "Dandy Shore",
@@ -1552,38 +1433,35 @@
         "description": "L'AfterBlog",
         "public_metrics": {
             "followers_count": 268,
-            "following_count": 1733,
+            "following_count": 1732,
             "tweet_count": 319,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1019673422": {
         "name": "Francesco Boz",
         "username": "BozFrancesco",
         "description": "Quando ho fondato http://t.co/hxW7DhXRTp non immaginavo le conseguenze",
         "public_metrics": {
-            "followers_count": 2067,
-            "following_count": 560,
+            "followers_count": 2065,
+            "following_count": 557,
             "tweet_count": 808,
             "listed_count": 8
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "73509664": {
         "name": "Maiara Walsh",
         "username": "MaiaraWalsh",
         "description": "Dreamer",
         "public_metrics": {
-            "followers_count": 98420,
-            "following_count": 78323,
+            "followers_count": 98326,
+            "following_count": 78273,
             "tweet_count": 5451,
             "listed_count": 533
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3051698888": {
         "name": "SpeakTheRumors str",
@@ -1595,47 +1473,43 @@
             "tweet_count": 27,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3035211041": {
         "name": "Nozioni a caso",
         "username": "Nozioni_a_caso",
         "description": "Nozioni a caso giornaliere per aprire la mente.",
         "public_metrics": {
-            "followers_count": 446,
-            "following_count": 1427,
+            "followers_count": 445,
+            "following_count": 1425,
             "tweet_count": 99,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1734817550": {
         "name": "Ronaoke",
         "username": "CreepySound",
         "description": "No one can't know another person, unless you love.",
         "public_metrics": {
-            "followers_count": 1072,
-            "following_count": 3434,
+            "followers_count": 1071,
+            "following_count": 3432,
             "tweet_count": 830,
             "listed_count": 4
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3037264899": {
         "name": "Insulti Forbiti",
         "username": "InsultiForbiti",
         "description": "Dalle ceneri di sfoggiare un linguaggio forbito in risposta a miserabili insulti #InsultiForbiti",
         "public_metrics": {
-            "followers_count": 2187,
-            "following_count": 1943,
+            "followers_count": 2184,
+            "following_count": 1941,
             "tweet_count": 181,
             "listed_count": 8
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "579133028": {
         "name": "Роман Пантелеев",
@@ -1643,25 +1517,23 @@
         "description": "Ищу подработку (по совместительству с графиком 2/2 , 1/3) Машинист автовышки(АГП,АП) 22м,18м,17м,14м и др. работаю в этой сфере с 2008г.+79269159370",
         "public_metrics": {
             "followers_count": 104,
-            "following_count": 817,
+            "following_count": 816,
             "tweet_count": 51,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "49043059": {
         "name": "Mariëlle",
         "username": "Mariellex",
         "description": "28 years old. Teacher. Craig ❤️ Olivia 👶🏽",
         "public_metrics": {
-            "followers_count": 1159,
+            "followers_count": 1158,
             "following_count": 1690,
             "tweet_count": 27523,
             "listed_count": 23
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "569382995": {
         "name": "Riccardo Zucchetto",
@@ -1673,8 +1545,7 @@
             "tweet_count": 402,
             "listed_count": 0
         },
-        "protected": true,
-        "last_week_tweets_count": 0
+        "protected": true
     },
     "51023058": {
         "name": "Andrea Pavan",
@@ -1686,21 +1557,19 @@
             "tweet_count": 726,
             "listed_count": 1
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "2827812417": {
         "name": "Mastro Retweet! ด้้้",
         "username": "MastroRetweet",
         "description": "ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้ Se è bello noi lo retuittiamo :) ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้",
         "public_metrics": {
-            "followers_count": 8338,
-            "following_count": 9756,
+            "followers_count": 8333,
+            "following_count": 9751,
             "tweet_count": 7,
             "listed_count": 14
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "1556357336": {
         "name": "Martina Santarossa",
@@ -1708,12 +1577,11 @@
         "description": "Doctor in North East of Italy, degree in business administration course. In love with Kevin. I love travel, books, films.",
         "public_metrics": {
             "followers_count": 66,
-            "following_count": 810,
+            "following_count": 809,
             "tweet_count": 311,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     },
     "3053756746": {
         "name": "Demi Divato",
@@ -1725,7 +1593,6 @@
             "tweet_count": 4,
             "listed_count": 0
         },
-        "protected": false,
-        "last_week_tweets_count": 0
+        "protected": false
     }
 }
