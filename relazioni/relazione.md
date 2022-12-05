@@ -20,6 +20,4 @@ NetworkX è una libreria Python che fornisce strumenti per la creazione e la man
 
 # Svolgimento
 
-
-
  In ultimo abbiamo definito due funzioni, una per salvare dati  JSON in locale e l’altra invece per leggere file JSON da locale. A questo punto abbiamo potuto finalmente iniziare il nostro progetto! Per il primo punto ci è stato richiesto di utilizzare la libreria Tweepy e scaricare tutti i follower del profilo Twitter con username @KevinRoitero, scaricando per ciascuno di essi : attributi di default, descrizione del profilo, metriche pubbliche dell’account (followers_count, following_count, tweet_count, listed_count) e lo stato di protezione dell’account, e infine salvare il risultato in una unica serializzazione JSON. Per fare ciò abbiamo creato una funzione get_parsed_users_followers(id) che sfrutteremo anche nei punti successivi, e che, specificato l’id dell’utente di interesse, ci restituisce, grazie alla funzione client.get_users_followers di Tweepy, un dizionario di tutti i suoi followers con salvate tutte le informazioni richieste nella consegna del punto 1. In questo passaggio, inoltre, abbiamo dovuto usare anche il Paginator per paginare i risultati, dato che…???????. Abbiamo, quindi, fornito come parametro l’id di @kevinRoitero e salvato tutte le informazioni scaricate in un JSON utilizzando la funzione da noi definita nei primi passi.
