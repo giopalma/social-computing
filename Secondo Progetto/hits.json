@@ -1,8 +1,8 @@
 [
     {
         "unit_id": "unit_0",
-        "token_input": "MPZSROIDWVZ",
-        "token_output": "GPXMXZOPDKE",
+        "token_input": "OTJHZNKXDPD",
+        "token_output": "OXEXVVTSCXU",
         "documents_number": 3,
         "documents": [
             {
@@ -18,9 +18,295 @@
                 "label": "SUPPORTS"
             },
             {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_1",
+        "token_input": "WSFDMFALPDM",
+        "token_output": "YORTEWMELYR",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "Matthew Gray Gubler is an actor.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_2",
+        "token_input": "GODADNYXDFL",
+        "token_output": "NSNDUJZLMXP",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "\"The relevant information about the claim is lacking in the context.\"",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_3",
+        "token_input": "ISBGSKYFHSW",
+        "token_output": "SMJCNGATAII",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "Matthew Gray Gubler is an actor.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_4",
+        "token_input": "WFYVRGFLIHU",
+        "token_output": "RSNOHAZTYAQ",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "Saw II sold over 3 million units, however it does not say whether it sold them on DVD.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
                 "id": 1520,
                 "statement": "Azithromycin is sold under different trade names.",
                 "explanation": "The first sentence is the claim and the second sentence is the evidence. The evidence is saying \"It is available as a generic medication and is sold under many trade names worldwide.\" The word \"and\" is joining two ideas together, so we can split the evidence into two parts. Part A is \"It is available as a generic medication.\" Part B is \"It is sold under many trade names worldwide.\" We can see that Part A is true because the medication is available as a generic. Part B is also true because it is sold under many trade names worldwide. Therefore, the entire claim is true.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_5",
+        "token_input": "HZUAVFUPBIR",
+        "token_output": "QMHMDAIAUQV",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "Saw II sold over 3 million units, however it does not say whether it sold them on DVD.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_6",
+        "token_input": "XTPFIQGTWAE",
+        "token_output": "QCWVNOXGQIF",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "Matthew Gray Gubler is an actor.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_7",
+        "token_input": "RGBAVKXGGSL",
+        "token_output": "PXDCUQIFJKZ",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "Matthew Gray Gubler is an actor.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_8",
+        "token_input": "CECBNKLRSNZ",
+        "token_output": "VJIADDLEQHE",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "\"The relevant information about the claim is lacking in the context.\"",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "The first sentence is the claim and the second sentence is the evidence. The evidence is saying \"It is available as a generic medication and is sold under many trade names worldwide.\" The word \"and\" is joining two ideas together, so we can split the evidence into two parts. Part A is \"It is available as a generic medication.\" Part B is \"It is sold under many trade names worldwide.\" We can see that Part A is true because the medication is available as a generic. Part B is also true because it is sold under many trade names worldwide. Therefore, the entire claim is true.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_9",
+        "token_input": "DYJGVSSJIBJ",
+        "token_output": "PBSEHSGGQXF",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "\"The relevant information about the claim is lacking in the context.\"",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "The first sentence is the claim and the second sentence is the evidence. The evidence is saying \"It is available as a generic medication and is sold under many trade names worldwide.\" The word \"and\" is joining two ideas together, so we can split the evidence into two parts. Part A is \"It is available as a generic medication.\" Part B is \"It is sold under many trade names worldwide.\" We can see that Part A is true because the medication is available as a generic. Part B is also true because it is sold under many trade names worldwide. Therefore, the entire claim is true.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_10",
+        "token_input": "TATOSWIFEWU",
+        "token_output": "EEEBNSQNOTE",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "\"The relevant information about the claim is lacking in the context.\"",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 1520,
+                "statement": "Azithromycin is sold under different trade names.",
+                "explanation": "The first sentence is the claim and the second sentence is the evidence. The evidence is saying \"It is available as a generic medication and is sold under many trade names worldwide.\" The word \"and\" is joining two ideas together, so we can split the evidence into two parts. Part A is \"It is available as a generic medication.\" Part B is \"It is sold under many trade names worldwide.\" We can see that Part A is true because the medication is available as a generic. Part B is also true because it is sold under many trade names worldwide. Therefore, the entire claim is true.",
+                "label": "SUPPORTS"
+            }
+        ]
+    },
+    {
+        "unit_id": "unit_11",
+        "token_input": "FUZHTWWQANI",
+        "token_output": "QOQPJRIOEMX",
+        "documents_number": 3,
+        "documents": [
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",
+                "label": "SUPPORTS"
+            },
+            {
+                "id": 41947,
+                "statement": "Matthew Gray Gubler is not an actor.",
+                "explanation": "The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",
+                "label": "REFUTES"
+            },
+            {
+                "id": 25842,
+                "statement": "Saw II sold over 3 million units.",
+                "explanation": "Saw II sold over 3 million units, however it does not say whether it sold them on DVD.",
                 "label": "SUPPORTS"
             }
         ]
