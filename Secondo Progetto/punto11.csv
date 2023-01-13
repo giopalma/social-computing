@@ -1,0 +1,7 @@
+,explanation,deleted_times
+0,"""The relevant information about the claim is lacking in the context.""",2
+1,Matthew Gray Gubler is an actor.,3
+2,"Saw II sold over 3 million units, however it does not say whether it sold them on DVD.",5
+3,"The claim is that Matthew Gray Gubler is not an actor. The evidence says that he is an American actor. So, the claim is false.",7
+4,"The claim is that Saw II sold over 3 million units. The evidence says that Saw II was released to DVD and topped charts its first week, selling more than 3 million units. So we can infer that the claim is true.",8
+5,"The first sentence is the claim and the second sentence is the evidence. The evidence is saying ""It is available as a generic medication and is sold under many trade names worldwide."" The word ""and"" is joining two ideas together, so we can split the evidence into two parts. Part A is ""It is available as a generic medication."" Part B is ""It is sold under many trade names worldwide."" We can see that Part A is true because the medication is available as a generic. Part B is also true because it is sold under many trade names worldwide. Therefore, the entire claim is true.",4
